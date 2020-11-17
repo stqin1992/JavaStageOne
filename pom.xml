@@ -34,7 +34,6 @@
 
 
     <modules>
-        <module>Day1</module>
         <module>TestDemo</module>
         <module>日志框架</module>
         <module>异常处理</module>
@@ -42,7 +41,6 @@
         <module>集合框架</module>
         <module>反射机制</module>
         <module>注解</module>
-        <module>IO流</module>
         <module>序列化与反序列化</module>
         <module>多线程</module>
         <module>面向对象</module>
