@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Day1</module>
+        <module>TestDemo</module>
     </modules>
 
 
