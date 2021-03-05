@@ -48,6 +48,7 @@
         <module>IO流及文件</module>
         <module>网络编程</module>
         <module>设计模式</module>
+        <module>LeeCode</module>
     </modules>
 
 
