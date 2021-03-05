@@ -12,8 +12,9 @@ public class Base64Utils {
      * @return String base64
      */
     public static String getBase64(String s) {
-        if (s == null)
+        if (s == null) {
             return null;
+        }
         return Base64.encodeBase64String(s.getBytes());
     }
 
@@ -24,8 +25,9 @@ public class Base64Utils {
      * @return String base64
      */
     public static String getBase64(byte[] ba) {
-        if (ba == null)
+        if (ba == null) {
             return null;
+        }
         return Base64.encodeBase64String(ba);
     }
 
@@ -37,8 +39,10 @@ public class Base64Utils {
      * @throws IOException
      */
     public static byte[] base64ToByteArray(String base64) {
-        if (base64 == null)
+        if (base64 == null) {
             return new byte[0];
+        }
+
         return Base64.decodeBase64(base64);
     }
 
