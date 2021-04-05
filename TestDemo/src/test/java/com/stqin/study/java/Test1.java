@@ -12,6 +12,6 @@ public class Test1 {
 
     @Test
     public void getHuTool() {
-        System.out.printf(SecureUtil.md5("123"));
+        System.out.printf(SecureUtil.md5("1234"));
     }
 }
