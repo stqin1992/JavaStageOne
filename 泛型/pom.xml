@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>泛型</artifactId>
+    <artifactId>fanxing</artifactId>
 
     <dependencies>
         <dependency>

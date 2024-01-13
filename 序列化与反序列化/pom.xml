@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>序列化与反序列化</artifactId>
+    <artifactId>xuliehuayufanxuliehua</artifactId>
 
     <dependencies>
         <dependency>

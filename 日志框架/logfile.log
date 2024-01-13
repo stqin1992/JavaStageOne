@@ -1,0 +1,6 @@
+2023-10-14 23:00:28 INFO  Slf4jDemo:14 - This is an INFO message
+2023-10-14 23:00:28 WARN  Slf4jDemo:15 - This is a WARN message
+2023-10-14 23:00:28 ERROR Slf4jDemo:16 - This is an ERROR message
+2024-01-13 22:43:59 INFO  Slf4jDemo:18 - This is an INFO message
+2024-01-13 22:43:59 WARN  Slf4jDemo:19 - This is a WARN message
+2024-01-13 22:43:59 ERROR Slf4jDemo:20 - This is an ERROR message

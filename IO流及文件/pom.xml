@@ -9,8 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>IO流及文件</artifactId>
-
+    <artifactId>IOAndFile</artifactId>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>

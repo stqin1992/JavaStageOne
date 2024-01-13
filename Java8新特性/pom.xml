@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Java8新特性</artifactId>
+    <artifactId>Java8</artifactId>
 
     <dependencies>
         <dependency>
