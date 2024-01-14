@@ -7,6 +7,14 @@
     <groupId>com.stqin.study.java</groupId>
     <artifactId>JavaStageOne</artifactId>
     <packaging>pom</packaging>
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>4.0.1</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
     <version>1.0-SNAPSHOT</version>
     <name>JavaStageOne</name>
 
@@ -35,19 +43,20 @@
     <modules>
         <module>TestDemo</module>
         <module>日志框架</module>
-        <module>异常处理</module>
-        <module>泛型</module>
-        <module>集合框架</module>
-        <module>反射机制</module>
-        <module>注解</module>
-        <module>序列化与反序列化</module>
-        <module>多线程</module>
-        <module>面向对象</module>
-        <module>常用工具类</module>
-        <module>Java8新特性</module>
-        <module>IO流及文件</module>
-        <module>网络编程</module>
-        <module>设计模式</module>
+<!--        <module>异常处理</module>-->
+<!--        <module>泛型</module>-->
+<!--        <module>集合框架</module>-->
+<!--        <module>反射机制</module>-->
+<!--        <module>注解</module>-->
+<!--        <module>序列化与反序列化</module>-->
+<!--        <module>多线程</module>-->
+<!--        <module>面向对象</module>-->
+<!--        <module>常用工具类</module>-->
+<!--        <module>Java8新特性</module>-->
+<!--        <module>IO流及文件</module>-->
+<!--        <module>网络编程</module>-->
+<!--        <module>设计模式</module>-->
+        <module>ExcelTest</module>
     </modules>
 
 
